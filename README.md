@@ -1,2 +1,2 @@
-# Financail_Planning
+# Financial_Planning
 Challenge_5
